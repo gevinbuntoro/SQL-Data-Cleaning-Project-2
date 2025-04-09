@@ -14,3 +14,12 @@ The Project showcases the ability to navigate through all the data while analyzi
 2. standardize data, fix errors, and null values  
 
 3. remove any columns and rows that are not necessary
+
+
+## Acknowledgement
+
+This project is to showcase that I understand how to code properly using SQL and can navigate through the data with SQL, including updating the content of the file. 
+
+This Project is from a YouTuber named Alex The Analyst. 
+
+Link: www.youtube.com/watch?v=4UltKCnnnTA&t=2891s&pp=ygUUYWxleCB0aGUgYW5hbHlzdCBzcWw%3D
